@@ -9,4 +9,4 @@ Reader can view everything but can't make change.
 
 
 Role View by Power Shell
-get-azroledefinition | FT Name,description
+get-azroledefinition | FT Name,description or Action,NotAction
