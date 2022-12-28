@@ -4,3 +4,9 @@ $password = convertTo-Securestring -string "Password123" -AsPlainText -force
 
 Create Az AD User 
 new-azaduser -DisplayName "User1" -UserPrincipalName  "User1@domain.com" -Password $password -MailNickname "UserOne"
+
+Create Group
+New-AzADGroup
+
+For check AD Group
+get-AZAdGroup
