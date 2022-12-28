@@ -7,5 +7,7 @@ Provide (Name and Value)
 One resource group can have Maximun 50 key value pairs
 
 Azure Pricing Calculator
+https://azure.microsoft.com/en-us/pricing/calculator/ (Estimate Cost for Azure Cloud)
 
-https://azure.microsoft.com/en-us/pricing/calculator/
+Billing Alerts
+Under Cost Management > Cost Alert (1 Subscribtion for 5 billing alerts)
