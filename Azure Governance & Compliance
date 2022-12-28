@@ -1,1 +1,7 @@
+Azure Management Group
 
+Az management group provide level of group subscribtion . 
+Management group can create with , GUI, Azure CLI and Power Shell.
+
+Create with Power Shell
+New-AZManagementGroup -groupname "IT" -displayname "IT Department"
