@@ -1,0 +1,19 @@
+IAM (Indentify access Management) 
+Tag = for use billing information filter
+
+Type of Subscriptions
+1. Enterprise (99.95%)
+2. Resellers
+3. Partners
+4. Personal 
+
+Type of Subscriptions Aggrement
+1.Free
+2.Pay as you go
+3. Enterprise Agreement
+4.Student
+
+Azure Account Type
+1.Account Administrator (can/delete subscribtion and account center) (Full Control)
+2.Service Administrator (Management to access portal) 
+3.Co-Administrator (can't change associaton and edit subscription)
