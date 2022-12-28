@@ -10,3 +10,4 @@ New-AzADGroup
 
 For check AD Group
 get-AZAdGroup
+get-azadgroup | select displayName
