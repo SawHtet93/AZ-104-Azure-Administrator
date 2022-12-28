@@ -1,0 +1,7 @@
+Subscription | Resource Groups | Resources
+
+Owner | Contributor | Reader
+
+Owner can manage everything, including access
+Contributor can manage everything, except access.
+Reader can view everything but can't make change. 
