@@ -5,3 +5,6 @@ Management group can create with , GUI, Azure CLI and Power Shell.
 
 Create with Power Shell
 New-AZManagementGroup -groupname "IT" -displayname "IT Department"
+
+Check with Management Group with Power Shell
+Get-azmanagementgroup
