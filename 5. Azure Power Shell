@@ -11,3 +11,6 @@ New-AzADGroup
 For check AD Group
 get-AZAdGroup
 get-azadgroup | select displayName
+Get-AZADUser -UserPrincipalName user1@domain.com  (for check user ID)
+Add-AzADGroupMember -MemberObjectId (x.x.x. ID)
+Add-AZADGroupMember -MemberObjectID (user object ID) -TargetgroupobjectID (Object ID) 
